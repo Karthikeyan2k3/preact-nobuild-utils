@@ -51,7 +51,7 @@ jobs:
               "signals",
               "h",
               "render"
-            ],
+            ]
           }
           EOF
 
